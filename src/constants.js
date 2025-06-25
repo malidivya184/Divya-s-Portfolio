@@ -114,10 +114,10 @@ export const SkillsInfo = [
     {
       id: 0,
       img:R3sysLogo ,
-      role: "Java Developer",
+      role: "Java Developer Intern",
       company: " R3 System Pvt. Ltd.",
       date: "July 2024 - July 2024",
-      desc: "Developed scalable full-stack web applications using Java, Spring MVC, and MySQL. Implemented RESTful APIs, handled database integration, and designed efficient backend logic. Collaborated with frontend teams to deliver responsive user interfaces and optimized performance in an agile development environment..",
+      desc: "As an intern, I gained experience in backend development by working with Java, Spring MVC, and MySQL. I was involved in API implementation, database integration, and improving application performance.",
       skills: [
       "Core Java",
       "Advanced Java",

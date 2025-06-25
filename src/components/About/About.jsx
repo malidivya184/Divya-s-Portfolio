@@ -35,8 +35,7 @@ const About = () => {
 
         {/* About Me Paragraph */}
         <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-I'm a final-year Computer Science Engineering student with a passion for building efficient and user-friendly software solutions. I enjoy working on full-stack development, exploring AI/ML, and turning ideas into real-world applications.
-        </p>
+Final-year Computer Science Engineering student with a passion for full-stack development and building efficient, user-friendly software solutions.        </p>
 
         {/* Social Icons */}
         <div className="flex flex-wrap justify-center gap-6 mb-8">
@@ -85,7 +84,7 @@ I'm a final-year Computer Science Engineering student with a passion for buildin
             <FaTerminal />
           </a>
 
-          {/* HackerRank */}
+          {/* HackerRank
           <a
             href="https://www.hackerrank.com/profile/divyamali764"
             target="_blank"
@@ -93,7 +92,7 @@ I'm a final-year Computer Science Engineering student with a passion for buildin
             className="text-white text-3xl hover:text-[#8245ec] transition duration-300"
           >
             <FaLaptopCode />
-          </a>
+          </a> */}
         </div>
 
         {/* Resume Button */}
