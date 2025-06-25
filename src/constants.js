@@ -49,7 +49,7 @@ import PracticalLogo from './assets/work_logo/Practical.jpeg';
 import JobPortaLogo from './assets/work_logo/jobPortal.png';
 import SignLogo from './assets/work_logo/Taffic_sign.png';
 import FuelLogo from './assets/work_logo/Fuel.png';
-import fakeNewsLogo from './assets/work_logo/fakeNews.png';
+import fakeNewsLogo from './assets/work_logo/FakeNews.png';
 
 
 
